@@ -4,3 +4,4 @@ The following analysis was conducted in order to consider total daily volume and
 
 ![Total_Daily_Volume_2017](https://user-images.githubusercontent.com/111781762/189008256-d2a12c2c-a2a0-48b4-8e5c-8556ece2bfc1.png)
 
+![Total_Daily_Volume_2018](https://user-images.githubusercontent.com/111781762/189008557-9fadbf5e-2134-4f0f-9a77-2229cdc02888.png)
