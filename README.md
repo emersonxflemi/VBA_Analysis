@@ -16,4 +16,4 @@ As we can see, return plumetted for all stocks included in the list that do not 
 
 ![VBA Run Time](https://user-images.githubusercontent.com/111781762/189120897-6336ce48-84d1-49b1-ad09-ba7ba097e888.png)
 
-Originally, VBA was utilized in a less timely manner that involved unnecessary usage of loops. This decreased ability to process data considerably. Therefore, the VBA module was rewritten to increase performance. This should help considerably should a larger set of data with more stocks be used in the future. The following VBA script can be changed for this purpose.
+Originally, VBA was utilized in a less timely manner that involved unnecessary usage of loops. This decreased ability to process data considerably. Therefore, the VBA module was rewritten to increase performance. This should help considerably should a larger set of data with more stocks be used in the future. Refactoring of the code was in some ways, time consuming. However, the refactoring should assist future programmers. Additionally, the refactoring should be of assistance if more complicated analysis is added. The following VBA script can be changed for this purpose.
