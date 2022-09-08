@@ -6,5 +6,9 @@ The following analysis was conducted in order to consider total daily volume and
 
 ![Total_Daily_Volume_2018](https://user-images.githubusercontent.com/111781762/189117733-d901b76b-4cfa-441b-a4e8-e2417d6b90bd.png)
 
+As we can observe, Daily Volume decreased in 2018 for tickers AY, CSIQ, RUN, SEDG, TERP and VSLR. For a majority of stocks that exhibited higher trading volume, return did not meet projections and return decreased.
 
-As we can observe, 
+![Return_For_2017](https://user-images.githubusercontent.com/111781762/189119927-bc7e0cff-4046-4fee-acbe-b7df0c0026dd.png)
+
+![Return_For_2018](https://user-images.githubusercontent.com/111781762/189119945-19ff7d78-a965-48b8-a3a3-b39bda4d9970.png)
+
