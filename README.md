@@ -1,4 +1,4 @@
-# VBA_Analysis
+# VBA Analysis
 
 The following analysis was conducted for Steve to consider total daily volume and return for several different stocks. Naturally, the data included for 2017 and 2018 contains entries for every day of the year for each stock. Therefore, to consolidate the data to make conclusions, VBA functionality was utilized. 
 
